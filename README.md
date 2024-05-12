@@ -7,4 +7,4 @@ Pandas is a powerful Python library designed for data manipulation and analysis.
 
 ### Practice Files:
 - Creating Reading and Writing Data with Pandas: [Code-Practice](Pandas/Creating%2C%20Reading%20and%20Writing.ipynb)
-- Indexing, Selecting & Assigning with Pandas: [Code-Practice](Pandas/Creating%2C%20Reading%20and%20Writing.ipynb)
+- Indexing, Selecting & Assigning with Pandas: [Code-Practice](Pandas/Indexing%2C%20Selecting%20%26%20Assigning.ipynb)
