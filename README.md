@@ -6,5 +6,5 @@ I've just begun my journey into the exciting world of Data Science, driven by my
 Pandas is a powerful Python library designed for data manipulation and analysis. It provides easy-to-use data structures and functions for working with structured data. With Pandas, tasks like data cleaning, transformation, and analysis become more efficient and intuitive.
 
 ### Practice Files:
-- Creating Reading and Writing Data with Pandas: [Code-Practice](Pandas/Creating, Reading and Writing.ipynb)
+- Creating Reading and Writing Data with Pandas: [Code-Practice](Pandas/Creating%2C%20Reading%20and%20Writing.ipynb)
 -
