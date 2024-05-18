@@ -163,3 +163,5 @@ cython_debug/
 Intro_to_ML/
 .virtual_documents/
 test.ipynb
+
+Model_Practice/
